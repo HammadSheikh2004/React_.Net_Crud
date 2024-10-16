@@ -1,0 +1,73 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\muhammad hammad\\Music\\React_Crud\\server\\React_Crud_Api\\React_Crud_Api\\wwwroot\\images\\img_13.png",
+      "PackagePath": "staticwebassets\\images\\img_13.png"
+    },
+    {
+      "Id": "C:\\Users\\muhammad hammad\\Music\\React_Crud\\server\\React_Crud_Api\\React_Crud_Api\\wwwroot\\images\\img_262.jpg",
+      "PackagePath": "staticwebassets\\images\\img_262.jpg"
+    },
+    {
+      "Id": "C:\\Users\\muhammad hammad\\Music\\React_Crud\\server\\React_Crud_Api\\React_Crud_Api\\wwwroot\\images\\img_274.png",
+      "PackagePath": "staticwebassets\\images\\img_274.png"
+    },
+    {
+      "Id": "C:\\Users\\muhammad hammad\\Music\\React_Crud\\server\\React_Crud_Api\\React_Crud_Api\\wwwroot\\images\\img_376.png",
+      "PackagePath": "staticwebassets\\images\\img_376.png"
+    },
+    {
+      "Id": "C:\\Users\\muhammad hammad\\Music\\React_Crud\\server\\React_Crud_Api\\React_Crud_Api\\wwwroot\\images\\img_460.jpg",
+      "PackagePath": "staticwebassets\\images\\img_460.jpg"
+    },
+    {
+      "Id": "C:\\Users\\muhammad hammad\\Music\\React_Crud\\server\\React_Crud_Api\\React_Crud_Api\\wwwroot\\images\\img_681.png",
+      "PackagePath": "staticwebassets\\images\\img_681.png"
+    },
+    {
+      "Id": "C:\\Users\\muhammad hammad\\Music\\React_Crud\\server\\React_Crud_Api\\React_Crud_Api\\wwwroot\\images\\img_690.png",
+      "PackagePath": "staticwebassets\\images\\img_690.png"
+    },
+    {
+      "Id": "C:\\Users\\muhammad hammad\\Music\\React_Crud\\server\\React_Crud_Api\\React_Crud_Api\\wwwroot\\images\\img_747.jpg",
+      "PackagePath": "staticwebassets\\images\\img_747.jpg"
+    },
+    {
+      "Id": "C:\\Users\\muhammad hammad\\Music\\React_Crud\\server\\React_Crud_Api\\React_Crud_Api\\wwwroot\\images\\img_756.jpg",
+      "PackagePath": "staticwebassets\\images\\img_756.jpg"
+    },
+    {
+      "Id": "C:\\Users\\muhammad hammad\\Music\\React_Crud\\server\\React_Crud_Api\\React_Crud_Api\\wwwroot\\images\\img_870.png",
+      "PackagePath": "staticwebassets\\images\\img_870.png"
+    },
+    {
+      "Id": "C:\\Users\\muhammad hammad\\Music\\React_Crud\\server\\React_Crud_Api\\React_Crud_Api\\wwwroot\\images\\img_889.png",
+      "PackagePath": "staticwebassets\\images\\img_889.png"
+    },
+    {
+      "Id": "C:\\Users\\muhammad hammad\\Music\\React_Crud\\server\\React_Crud_Api\\React_Crud_Api\\wwwroot\\images\\img_968.jpg",
+      "PackagePath": "staticwebassets\\images\\img_968.jpg"
+    },
+    {
+      "Id": "C:\\Users\\muhammad hammad\\Music\\React_Crud\\server\\React_Crud_Api\\React_Crud_Api\\wwwroot\\images\\img_98.png",
+      "PackagePath": "staticwebassets\\images\\img_98.png"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.React_Crud_Api.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.React_Crud_Api.props",
+      "PackagePath": "build\\React_Crud_Api.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.React_Crud_Api.props",
+      "PackagePath": "buildMultiTargeting\\React_Crud_Api.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.React_Crud_Api.props",
+      "PackagePath": "buildTransitive\\React_Crud_Api.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
